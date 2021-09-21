@@ -16,4 +16,4 @@ Tecnologias que uso no meu Dia.
   
   Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   
-  Sou estudante de Gestão da Tecnologia da Informação, e linguagens Javascipt e Python.
+  Sou estudante de Gestão da Tecnologia da Informação, e as linguagens Javascript e Python.
