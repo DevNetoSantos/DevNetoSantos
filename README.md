@@ -20,3 +20,9 @@ Tecnologias que uso no meu Dia.
   Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
   
   Sou estudante de Gestão da Tecnologia da Informação, e também estudo para atuar na área Full Stack.
+    
+ <div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
