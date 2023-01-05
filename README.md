@@ -23,6 +23,6 @@ Tecnologias que uso no meu Dia.
     
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DevNetoSantos/DevNetoSantos/actions/workflows/snake.yml)
   
 </div>
