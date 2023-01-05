@@ -21,8 +21,8 @@ Tecnologias que uso no meu Dia.
   
   Sou estudante de Gestão da Tecnologia da Informação, e também estudo para atuar na área Full Stack.
     
- <div align="center">
+<div align="center">
 
-  ![Snake animation](https://github.com/danielbped/DevNetoSantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 </div>
