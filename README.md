@@ -6,8 +6,6 @@ Olá, Sou Raimundo Neto!💪
 https://wa.me/+5599984343403?text=Ol%C3%A1,%20Pode%20me%20ajudar?)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santosneto_/)
 
-![DevNetoSantos GitHub stats](https://github-readme-stats.vercel.app/api?username=DevNetoSantos&show_icons=true&theme=radical)
-
 Tecnologias que uso no meu Dia.
 
 <div style="display: inline-block"><br/>
